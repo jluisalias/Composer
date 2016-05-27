@@ -1,0 +1,14 @@
+{
+    "name": "composer/list",
+    "description": "ListFiles libraries",
+    "require": {
+      "symfony/filesystem": "2.1.x-dev",
+      "symfony/finder": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "jluisalias",
+            "email": "jluis.alias@gmail.com"
+        }
+    ]
+}
